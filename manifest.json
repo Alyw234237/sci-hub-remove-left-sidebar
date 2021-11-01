@@ -6,7 +6,7 @@
     "content_scripts": [
         {
             "matches": [
-                "http://sci-hub.tw/*", "https://sci-hub.tw/*", "http://sci-hub.se/*", "https://sci-hub.se/*", "http://sci-hub.st/*", "https://sci-hub.st/*", "http://sci-hub.do/*", "https://sci-hub.do/*", "http://sci-hub.it.nf/*", "https://sci-hub.it.nf/*", "http://sci-hub.im/*", "https://sci-hub.im/*", "http://scihubtw.tw/*", "https://scihubtw.tw/*", "http://sci-hub.ren/*", "https://sci-hub.ren/*", "http://sci-hub.hkvisa.net/*", "https://sci-hub.hkvisa.net/*", "http://sci-hubtw.hkvisa.net/", "https://sci-hubtw.hkvisa.net/", "http://sci-hubse.hkvisa.net/", "https://sci-hubse.hkvisa.net/"
+                "http://sci-hub.tw/*", "https://sci-hub.tw/*", "http://sci-hub.se/*", "https://sci-hub.se/*", "http://sci-hub.st/*", "https://sci-hub.st/*", "http://sci-hub.do/*", "https://sci-hub.do/*", "http://sci-hub.it.nf/*", "https://sci-hub.it.nf/*", "http://sci-hub.im/*", "https://sci-hub.im/*", "http://scihubtw.tw/*", "https://scihubtw.tw/*", "http://sci-hub.ren/*", "https://sci-hub.ren/*", "http://sci-hub.ru/*", "https://sci-hub.ru/*", "http://sci-hub.hkvisa.net/*", "https://sci-hub.hkvisa.net/*", "http://sci-hubtw.hkvisa.net/", "https://sci-hubtw.hkvisa.net/", "http://sci-hubse.hkvisa.net/", "https://sci-hubse.hkvisa.net/"
             ],
             "js": [
                 "content.js"

@@ -6,7 +6,7 @@ if (pdf) {
 
   document.documentElement.innerHTML = '';
   document.body.style = 'padding: 0px; margin: 0px; width: 100vw; height: 100vh;'
-  document.head.innerHTML = '<title>' + page_title + '</title>';
+  document.title = page_title;
 
   var embed = document.createElement('embed');
   embed.src = pdf_url;

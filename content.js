@@ -11,7 +11,7 @@ if (pdf) {
   var embed = document.createElement('embed');
   embed.src = pdf_url;
   embed.type = 'application/pdf';
-  embed.style = 'width: 100vw; height: 100vh; border: none;';
+  embed.style = 'width: 100vw; height: 100vh; border: none; overflow: hidden;';
   document.body.appendChild(embed);
 }
 

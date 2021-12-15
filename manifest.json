@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Sci-Hub Remove Left Sidebar",
   "description": "Removes the Sci-Hub left sidebar to make PDF take up whole window.",
-  "version": "1.8",
+  "version": "1.9",
   "content_scripts": [
     {
       "matches": [
